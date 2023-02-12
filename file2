@@ -1,0 +1,5 @@
+proxies:
+  - {name: 🇮🇩 ID - IKD, server: 104.21.235.171, port: 80, type: vmess, uuid: ac2c2d90-a6f8-11ed-b731-205c6d5f5d78, sni: id-2.0rd.net, alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /d0x9sa4g, headers: {Host: id-2.0rd.net}}}
+  - {name: 🇮🇩 ID - Herza, server: 104.21.235.171, port: 80, type: vmess, uuid: d5438330-a6f8-11ed-b038-205c6d5f5d78, sni: id-1.0rd.net, alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /ched4vu8, headers: {Host: id-1.0rd.net}}}
+  - {name: 🇮🇩 Trojan - IKD, server: idtj-ikd.bonds.id, port: 443, udp: true, type: trojan, password: 16b06bd0-a6f9-11ed-955e-1239d0255272, sni: www.google.com, skip-cert-verify: true}
+  - {name: 🇮🇩 Trojan - Herza, server: idtj-herza.bonds.id, port: 443, udp: true, type: trojan, password: 39d710d0-a6f9-11ed-96a1-1239d0255272, sni: www.google.com, skip-cert-verify: true}

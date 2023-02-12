@@ -1,0 +1,2 @@
+proxies:
+  - {name: Update Sukses, server: idtj-herza.bonds.id, port: 443, udp: true, type: trojan, password: 3cc66640-a004-11ed-91d9-1239d0255272, sni: www.google.com, skip-cert-verify: true}
