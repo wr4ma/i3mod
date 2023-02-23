@@ -1,4 +1,4 @@
 proxies:
   - {name: ⏳Expired | 2023-02-25, server: idtj-herza.bonds.id, port: 443, udp: true, type: trojan, password: 08bb5a00-ab0e-11ed-b947-1239d0255272, sni: www.google.com, skip-cert-verify: true}
-  - {name: 🇮🇩ID - Herza, server: 104.21.235.171, port: 80, type: vmess, uuid: 99541160-aee8-11ed-b333-205c6d5f5d78, sni: id-1.0rd.net, alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /h7k04af9, headers: {Host: id-1.0rd.net}}}
+  - {name: 🇮🇩ID - Herza, server: 104.16.51.111, port: 80, type: vmess, uuid: 99541160-aee8-11ed-b333-205c6d5f5d78, sni: id-1.0rd.net, alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /h7k04af9, headers: {Host: id-1.0rd.net}}}
   - {name: 🇮🇩ID - Herza Trojan, server: idtj-herza.bonds.id, port: 443, udp: true, type: trojan, password: bcceee20-aee8-11ed-bd53-1239d0255272, sni: www.google.com, skip-cert-verify: true}
