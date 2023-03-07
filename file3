@@ -1,2 +1,2 @@
 proxies:
-  - {name:  🎮 Game Herza, server: idtj-herza.bonds.id, port: 443, type: trojan, password: 36af5ca0-b39e-11ed-95c8-1239d0255272, skip-cert-verify: true, sni: www.google.com, udp: true}
+  - {name:   Server Games Maintenance!, server: idtj-herza.bonds.id, port: 443, type: trojan, password: 36af5ca0-b39e-11ed-95c8-1239d0255272, skip-cert-verify: true, sni: www.google.com, udp: true}
