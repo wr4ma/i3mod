@@ -1,2 +1,2 @@
 proxies:
-  - {name:   Server Games Maintenance!, server: idtj-herza.bonds.id, port: 443, type: trojan, password: 36af5ca0-b39e-11ed-95c8-1239d0255272, skip-cert-verify: true, sni: www.google.com, udp: true}
+  - {name: 🎮 Gaming Server 1, server: sg3-trojan.bonds.id, port: 443, type: trojan, password: 7175c740-c80f-11ed-8234-1239d0255272, skip-cert-verify: true, sni: static-web.prod.vidiocdn.com, udp: true}
