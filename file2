@@ -1,5 +1,6 @@
 proxies:
   - {name: ⏳Expired | 2023-03-29, server: idtj-herza.bonds.id, port: 443, udp: true, type: trojan, password: 08bb5a00-ab0e-11ed-b947-1239d0255272, sni: 104.22.5.240, skip-cert-verify: true}
+  - {name: 🇮🇩 ID Trojan, server: id-1.test3.net, port: 443, type: trojan, password: 1670e490-c815-11ed-9dbb-1239d0255272, skip-cert-verify: true, sni: static-web.prod.vidiocdn.com, udp: true}
   - {name: 🇮🇩 ID Ocean 1, server: 104.22.5.240, port: 80, type: vmess, uuid: 018b160f-f693-4fec-bbd2-257714e69748, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: id1.v2rayserv.com, network: ws, ws-opts: {path: /vmess, headers: {Host: id1.v2rayserv.com}}, udp: true}
   - {name: 🇮🇩 ID Ocean 2, server: 104.22.5.240, port: 80, type: vmess, uuid: da60f368-bf0d-4be9-81cc-c98a30aa84e0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: id2.v2rayserv.com, network: ws, ws-opts: {path: /vmess, headers: {Host: id2.v2rayserv.com}}, udp: true}
   - {name: 🇮🇩 ID Ocean 3, server: 104.22.5.240, port: 80, type: vmess, uuid: f811a87d-1ce7-4d37-8e55-61fd873ea2ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: id3.v2rayserv.com, network: ws, ws-opts: {path: /vmess, headers: {Host: id3.v2rayserv.com}}, udp: true}

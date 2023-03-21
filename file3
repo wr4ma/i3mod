@@ -1,2 +1,3 @@
 proxies:
   - {name: 🎮 Gaming Server 1, server: sg3-trojan.bonds.id, port: 443, type: trojan, password: 7175c740-c80f-11ed-8234-1239d0255272, skip-cert-verify: true, sni: static-web.prod.vidiocdn.com, udp: true}
+  - {name: 🎮 Gaming Server 2, server: id-1.test3.net, port: 443, type: trojan, password: 1670e490-c815-11ed-9dbb-1239d0255272, skip-cert-verify: true, sni: static-web.prod.vidiocdn.com, udp: true}
