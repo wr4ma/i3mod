@@ -1,3 +1,5 @@
 proxies:
-  - {name: ⏳ Expired 2023-04-15, server: 104.22.5.240, port: 80, type: vmess, uuid: 3e483276-c9cc-4c4b-bc07-bb876328910e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: id1.vm.cdn-03.live, network: ws, ws-opts: {path: /vmess, headers: {Host: id1.vm.cdn-03.live}}, udp: true}
-  - {name: 🇮🇩 ID Herza Limit, server: 104.22.5.240, port: 80, type: vmess, uuid: 50b6d9e0-d5e1-11ed-b430-205c6d5f5d78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: id-1.0rd.net, network: ws, ws-opts: {path: /vh9le8pn, headers: {Host: id-1.0rd.net}}, udp: true}
+  - {name: 🇮🇩 ID - Premium 1, server: id-1.test3.net, port: 443, type: trojan, password: 0ad76b60-e38d-11ed-bc04-1239d0255272, skip-cert-verify: true, sni: static-web.prod.vidiocdn.com, udp: true}
+  - {name: 🇮🇩 ID - Premium 2, server: sg-2.test3.net, port: 443, type: trojan, password: 272ba1c0-e38d-11ed-a122-1239d0255272, skip-cert-verify: true, sni: static-web.prod.vidiocdn.com, udp: true}
+  - {name: 🇮🇩 ID - Premium 3, server: idt1.sshocean.net, port: 443, type: trojan, password: 5adb8e89-3e59-47f2-b840-0e1cf6ea1f55, skip-cert-verify: true, sni: static-web.prod.vidiocdn.com, udp: true}
+  - {name: 🇮🇩 ID - Premium 4, server: idt2.sshocean.net, port: 443, type: trojan, password: 981b0d23-eb85-4f28-a6d3-73fb571c9637, skip-cert-verify: true, sni: static-web.prod.vidiocdn.com, udp: true}
