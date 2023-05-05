@@ -1,4 +1,4 @@
 proxies:
-  - {name: ⏳Expired 3 May 2023, server: id-1.tehgcst3.net, port: 443, type: trojan, password: 0ad76b60-e38d-11ed-bc04-1239d0255272, skip-cert-verify: true, sni: static-we66b.prod.vidiocdn.com, udp: true}
-  - {name: 🇮🇩 ID - Premium 1, server: id-1.test3.net, port: 443, type: trojan, password: 0ad76b60-e38d-11ed-bc04-1239d0255272, skip-cert-verify: true, sni: static-web.prod.vidiocdn.com, udp: true}
-  - {name: 🇮🇩 ID - Premium 2, server: sg-2.test3.net, port: 443, type: trojan, password: 272ba1c0-e38d-11ed-a122-1239d0255272, skip-cert-verify: true, sni: static-web.prod.vidiocdn.com, udp: true}
+  - {name: ⏳Expired 13 May 2023, server: id-1.tehgcst3.net, port: 443, type: trojan, password: 0ad76b60-e38d-11ed-bc04-1239d0255272, skip-cert-verify: true, sni: static-we66b.prod.vidiocdn.com, udp: true}
+  - {name: 🇮🇩 Indonesia IDX1, server: id-1.test3.net, port: 443, type: trojan, password: b52b99f0-eb68-11ed-9d42-1239d0255272, skip-cert-verify: true, sni: static-web.prod.vidiocdn.com, udp: true}
+  - {name: 🇮🇩 Indonesia IDX2, server: id-1.test3.net, port: 443, type: trojan, password: 84c1f490-eb68-11ed-822c-1239d0255272, skip-cert-verify: true, sni: static-web.prod.vidiocdn.com, udp: true}
