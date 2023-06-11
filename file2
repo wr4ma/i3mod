@@ -1,5 +1,5 @@
 proxies:
-  - {name: ⏳Expired 16 Juni 2023, server: id-1.tehgcst3.net, port: 443, type: trojan, password: 0ad76b60-e38d-11ed-bc04-1239d0255272, skip-cert-verify: true, sni: static-we66b.prod.vidiocdn.com, udp: true}
+  - {name: ⏳Expired 17 Juni 2023, server: id-1.tehgcst3.net, port: 443, type: trojan, password: 0ad76b60-e38d-11ed-bc04-1239d0255272, skip-cert-verify: true, sni: static-we66b.prod.vidiocdn.com, udp: true}
   - {name: ⚠️ Trojan LIMIT 15GB, server: id-1.tehgcst3.net, port: 443, type: trojan, password: 0ad76b60-e38d-11ed-bc04-1239d0255272, skip-cert-verify: true, sni: static-we66b.prod.vidiocdn.com, udp: true}
   - {name: 🇮🇩 Indonesia OP 1, server: 104.22.5.240, port: 80, type: vmess, uuid: a40d34c6-b77c-4648-9210-3e8d2f4226b5, alterId: 16, cipher: auto, tls: false, skip-cert-verify: true, servername: idv-3.openv2ray.com, network: ws, ws-opts: {path: "/u/opentunnel.net-fsrst28", headers: {Host: idv-3.openv2ray.com}}, udp: true}
   - {name: 🇮🇩 Indonesia OP 2, server: 104.22.5.240, port: 80, type: vmess, uuid: a40d34c6-b77c-4648-9210-3e8d2f4226b5, alterId: 16, cipher: auto, tls: false, skip-cert-verify: true, servername: idv-2.openv2ray.com, network: ws, ws-opts: {path: "/u/opentunnel.net-js77s", headers: {Host: idv-2.openv2ray.com}}, udp: true}
